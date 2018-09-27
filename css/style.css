@@ -252,7 +252,7 @@ textarea {
 }
 
 body {
-	background-color: #FFEBFC;
+  background: url("../css/milkyway.jpg");
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
@@ -284,11 +284,6 @@ input[type=text], input[type=email] {
 	font-size: 15px;
 	padding: 8px;
 }
-/*
- {
-	margin-right: auto;
-	margin-left: auto;
-}
 
  {
 	margin-right: auto;
@@ -298,7 +293,12 @@ input[type=text], input[type=email] {
  {
 	margin-right: auto;
 	margin-left: auto;
-}*/
+}
+
+ {
+	margin-right: auto;
+	margin-left: auto;
+}
 
 input[type="submit"] {
 	margin-right: auto;
