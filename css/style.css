@@ -266,11 +266,11 @@ label{
 }
 
 h1  {
-	font-family: palatino;
-	text-align: center;
-	font-size: 50px;
-	color: #0e1413;
-	padding-bottom: 20px;
+  color: #fff;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 3em;
+  text-shadow: #fff 0 0 100px;
 }
 
 input {
