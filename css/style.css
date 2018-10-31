@@ -259,10 +259,11 @@ body {
 	font-family:bookman;
 	font-size: 19px;
   color: white;
-
+	vertical-align: middle;
 }
 label{
 	padding: 10px;
+	vertical-align: middle;
 }
 
 h1  {
@@ -274,16 +275,27 @@ h1  {
 }
 
 input {
-	padding: 10px;
+/*		padding: 10px;
 	margin-right: auto;
 	margin-left: auto;
-	text-align: center;
+text-align: center; */
+	vertical-align: middle;
+
+}
+
+
+div {
+  height: 50px;
+  /*background: grey;
+  display: flex;*/
+  align-items: center;
 }
 
 input[type=text], input[type=email] {
 	width: 25%;
 	font-size: 15px;
 	padding: 8px;
+	vertical-align:middle;
 }
 
 input[type="submit"] {
