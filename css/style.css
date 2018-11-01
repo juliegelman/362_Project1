@@ -256,15 +256,19 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
-	font-family:bookman;
+	font-family: 'Lucida Console', cursive, Utopia, "Liberation Serif", Sans-Serif;
+text-align: center;
 	font-size: 19px;
   color: white;
 	vertical-align: middle;
 }
-label{
-	padding: 10px;
-	vertical-align: middle;
-}
+ label{
+    float: none;
+    display: inline-block;
+    margin-right: 2%;
+
+  }
+
 
 h1  {
   color: #fff;
