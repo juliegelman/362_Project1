@@ -48,7 +48,7 @@ div {
 	width: auto;
 	padding: 10px;
 	background-color: black;
-	
+
 }
 
 input[type=text], input[type=email] {
@@ -62,5 +62,6 @@ input[type="submit"] {
 	align-items: center;
 	width: 15%;
 	margin-top:10px;
+	border-radius: 50%;
 
 }
